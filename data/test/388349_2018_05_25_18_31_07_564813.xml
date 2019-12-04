@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<annotation><folder>images</folder><filename>388349_2018_05_25_18_31_07_564813.jpg</filename><segmented>0</segmented><size><width>600</width><height>600</height><depth>3</depth></size><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>340</xmin><ymin>280</ymin><xmax>443</xmax><ymax>398</ymax></bndbox></object></annotation>

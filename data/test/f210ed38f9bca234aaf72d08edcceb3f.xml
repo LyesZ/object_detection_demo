@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<annotation><folder>images</folder><filename>f210ed38f9bca234aaf72d08edcceb3f.jpeg</filename><segmented>0</segmented><size><width>600</width><height>600</height><depth>3</depth></size><object><name>face</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>344</xmin><ymin>213</ymin><xmax>444</xmax><ymax>326</ymax></bndbox></object></annotation>
